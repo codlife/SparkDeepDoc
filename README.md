@@ -7,3 +7,4 @@ Some deep resources from apache spark, cloudera, my practice and so on. Most imp
 
 # Machine learning
  * 1: [K-D tree](http://blog.sina.com.cn/s/blog_6f611c300101bysf.html)
+ * 2: [An overview of SGD](http://sebastianruder.com/optimizing-gradient-descent/index.html#fn:10)
